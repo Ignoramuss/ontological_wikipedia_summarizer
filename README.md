@@ -1,0 +1,2 @@
+# ontological_wikipedia_summarizer
+Summarizer_project
